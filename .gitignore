@@ -1,2 +1,3 @@
 /node_modules
 /make/package.box
+.vagrant/
